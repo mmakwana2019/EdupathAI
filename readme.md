@@ -20,6 +20,7 @@ cd ../client && npm install
 
 ### 2. Configure environment variables
 Create a `.env` file inside the `server/` folder:
+
 AZURE_AI_ENDPOINT=endpoint
 
 AZURE_AI_KEY=your_api_key_here
